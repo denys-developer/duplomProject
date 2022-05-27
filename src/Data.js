@@ -476,6 +476,198 @@ const sampleProducts = [
       "https://www.ipeople.in.ua/files/products/2022-05-09%2016.19.36.800x600w.jpg"
     ]
   },
+  {
+    id: 29,
+    name: "LAUT Shield Enduro for iPad Air 10.9” / iPad Pro 11” (2021/2020/2018)",
+    category: "Чехли для IPAD",
+    price: 1509  ,
+    description: `SHIELD ENDURO має удароміцну силіконову зовнішню оболонку, яка розсіює удари від вашого пристрою, та міцний полікарбонатний передній та задній внутрішній сердечник. Якщо є щось, що цей кейс вміє робити, то це виживати!`,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/LAUT-SHIELD-ENDURO-iPad-Air-4-iPad-Pro-11-2018-2020-2021-Blue-1-1000x1000.500x500.jpeg.pagespeed.ce.fhhuiXemgX.jpg",
+        "https://www.ipeople.in.ua/files/products/LAUT-SHIELD-ENDURO-iPad-Air-4-iPad-Pro-11-2018-2020-2021-Blue-2-1000x1000.800x600w.png",
+        "https://www.ipeople.in.ua/files/products/LAUT-SHIELD-ENDURO-iPad-Air-4-iPad-Pro-11-2018-2020-2021-Blue-3-1000x1000.800x600w.png"
+    ]
+  },
+  {
+    id: 30,
+    name: "Apple Smart Folio for iPad Pro 12.9 5th Gen, English Lavender",
+    category: "Чехли для IPAD",
+    price: 780  ,
+    description: `Apple Smart Folio - це співвідношення елегантного мінімалізму та посиленого захисту. Практичний дизайн чохла забезпечує надійний захист задньої панелі планшета та його дисплея. Виготовлений у формі фоліо, цей чохол захищає корпус iPad Pro 12.9" від затертостей, подряпин та різних зовнішніх впливів, що дозволить надовго зберегти його первісний вигляд.`,
+    popular: true,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/MM6P3-1000x1000.500x500.jpeg",
+      "https://www.ipeople.in.ua/files/products/MNA63_AV2.800x600w.jpeg"
+    ]
+  },
+  {
+    id: 31,
+    name: "Wiwu Waltz Rotative Case for iPad 10.2, Dark Green\n",
+    category: "Чехли для IPAD",
+    price: 1200  ,
+    description: `WiWU Waltz Rotative iPad Case – зручний варіант для транспортування, захисту та використання Вашого iPad 10.2. Чохол WiWU Waltz з кількома кутами огляду забезпечує свободу, необхідну для читання, перегляду фільмів, набору тексту або здійснення відеодзвінків.`,
+    popular: true,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/apple-ipad-102-2021-9nesil-kilif-nayn-donebilen-standli-kilif-ipad-102-2021-9nesil-zore-196703-19-B.500x500.jpeg",
+      "https://www.ipeople.in.ua/files/products/%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%20%D0%BE%2012.49.25.800x600w.png"
+    ]
+  },
+  {
+    id: 32,
+    name: "Armorstandart Smart Case для iPad Mini 6, White (ARM60283)",
+    category: "Чехли для IPAD",
+    price: 767  ,
+    description: `ArmorStandart Smart Case забезпечує надійний захист вашого планшета від будь-яких видів пошкоджень. Основною перевагою чохлів цього типу є захист дисплея пристрою. Саме на цій частині планшета подряпини та сколи створюють негативне враження від використання.
+
+Функція Wake/Sleep, реалізована за допомогою магнітів, дозволяє значно продовжити використання планшета на одному заряді батареї за рахунок зниження використання екрану.
+
+М'яка мікрофібра, з якої складається внутрішня оболонка чохла ArmorStandart, забезпечує додатковий захист від попадання пилу та сміття, а відповідно і від утворення нових дрібних подряпин на пристрої.`,
+    popular: false,
+    imageUrls: [
+     "https://www.ipeople.in.ua/files/products/Screenshot_4_131.500x500.jpg.pagespeed.ce.f_W9lqlCh3.jpg"
+    ]
+  },
+  {
+    id: 33,
+    name: "Baseus GaN 2 Pro Quick Charger 100W (2Type C + 2USB), White",
+    category: "Зараядні пристрої",
+    price: 2099 ,
+    description: `Універсальні роз'єми Type-C та USB дають можливість підключати до живлення продукти Apple, Samsung, Xiaomi, Huawei, а також іншу мобільну електроніку – просто підключіть відповідний кабель. Порти Type-C розвивають потужність до 100 Вт, тому підключивши лише один шнур, Ви швидко зарядите ноутбук. При підключенні до 4 пристроїв одночасно отримавши сумарний вихід потужності 95-98 Вт.
+Підтримує різні протоколи швидкого заряджання, таких як PD 3.0 і QC 3.0, що дозволить відновити заряд батареї в 3 рази швидше, ніж зі стандартним ЗУ. Наприклад, iPhone 12 заряджається на 50% лише за 30 хвилин.`,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/baseus-gan2-pro-quick-charger-2c-2u-100w-eu-white.500x500.jpeg.pagespeed.ce.LXxZa-g2bZ.jpg",
+      "https://www.ipeople.in.ua/files/products/1baseus-gan2-pro-quick-charger-2c-2u-100w-eu-white.800x600w.jpeg"
+    ]
+  },
+  {
+    id: 34,
+    name: "Power Adapter Apple 67W (MKU63ZM/A)\n",
+    category: "Зараядні пристрої",
+    price: 2799 ,
+    description: `Адаптер живлення Apple USB-C потужністю 96 Вт дозволяє швидко та ефективно підзарядити пристрій вдома, в офісі або у дорозі. Його можна використовувати з будь-яким пристроєм, важливо відзначити, що у деяких гаджетів може трохи прискориться знос батареї. Найбільш сумісний з MacBook: MacBook Air (M1, 2020); MacBook Air (Retina, 13-inch, 2020); MacBook Air (Retina, 13-inch, 2018 – 2019); MacBook Pro (14-inch, 2021); MacBook Pro (13-inch, M1, 2020); MacBook Pro (13-inch, 2020); MacBook Pro (13-inch, 2016 – 2019); MacBook (Retina, 12-inch, Early 2015 – 2017)`,
+    popular: true,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/96_4000.500x500.jpeg.pagespeed.ce.-Tc-PfFz1d.jpg",
+      "https://www.ipeople.in.ua/files/products/813513_zoom.800x600w.jpeg"
+    ]
+  },
+  {
+    id: 35,
+    name: "Baseus Compact Quick Charger 20W QC+PD(Type C+USB), White\n",
+    category: "Зараядні пристрої",
+    price: 450 ,
+    description:`Baseus Compact Quick Charger 20W - швидкий зарядний пристрій з двома портами: USB-A + Type C і підтримкою Apple Power Delivery. Простий, недорогий та потужний адаптер, який повноцінно замінить оригінальну зарядку смартфона або стане додатковим, запасним зарядним пристроєм для дому, роботи та подорожей`,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/eng_pl_Baseus-Compact-Quick-Charger-USB-USB-C-20W-white-21020_7.800x600.jpeg",
+      "https://www.ipeople.in.ua/files/products/eng_pl_Baseus-Compact-Quick-Charger-USB-USB-C-20W-white-21020_6.800x600w.jpeg"
+    ]
+  },
+  {
+    id: 36,
+    name: "Baseus Compact Quick Charger 20W QC+PD(Type C+USB), Black\n",
+    category: "Зараядні пристрої",
+    price: 300 ,
+    description:`Baseus Compact Quick Charger 20W - швидкий зарядний пристрій з двома портами: USB-A + Type C і підтримкою Apple Power Delivery. Простий, недорогий та потужний адаптер, який повноцінно замінить оригінальну зарядку смартфона або стане додатковим, запасним зарядним пристроєм для дому, роботи та подорожей`,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/eng_pl_Baseus-Compact-Quick-Charger-USB-USB-C-20W-black-21019_7.500x500.jpeg.pagespeed.ce.p4cFznBO9Z.jpg",
+      "https://www.ipeople.in.ua/files/products/eng_pl_Baseus-Compact-Quick-Charger-USB-USB-C-20W-black-21019_7.500x500.jpeg.pagespeed.ce.p4cFznBO9Z.jpg"
+    ]
+  },
+  {
+    id: 37,
+    name: "Baseus Tungsten Gold Type C to Type C 100W 1m Cable, Black\n",
+    category: "Кабелі і перехідники",
+    price: 395 ,
+    description:`Кабель підтримує протоколи швидкого заряджання та підходить для різних типів пристроїв: смартфонів, ноутбуків, ігрової консолі тощо. Вихідна потужність може досягати 100 Вт, що дозволяє зарядити MacBook приблизно за 2 години.`,
+    popular: true,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%20%D0%BE%2012.59.35.500x500.png",
+      "https://www.ipeople.in.ua/files/products/%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%20%D0%BE%2013.00.01.800x600w.png"
+    ]
+  },
+  {
+    id: 38,
+    name: "Apple Lightning to USB 1m Cable (MXLY2) (UA UCRF)",
+    category: "Кабелі і перехідники",
+    price: 799 ,
+    description:`Використовуйте Lightning USB кабель для заряджання та синхронізації Вашого iPhone, iPod або iPad з новим Lightning роз'ємом підключивши до Mac OS або Windows PC.`,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/60_4000.500x500.jpeg.pagespeed.ce.2tKHQptJJp.jpg",
+    ]
+  },
+  {
+    id: 39,
+    name: "Baseus Multiport Superlative USB-C to 3xUSB3.0+HDMI-4K+SD/TF Card Reader+USB-C, Grey\n",
+    category: "Кабелі і перехідники",
+    price: 999 ,
+    description: `Підключайте Baseus Multiport Superlative через вхід USB Type C до 6 пристроїв. Хаб має 3 універсальні високоефективні порти USB 3.0 5 Гбіт/с, 1 відеоінтерфейс HDMI 4K HD, зарядку PD потужністю 60 Вт і порти для карток SD/TF. Підключайте та працюйте без потреб у драйверах або програмному забезпеченні. Ідеально підходить для Macbook Air/Pro або інших гаджетів, де є порт USB-C.`,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%20%D0%BE%2018.49.32.500x500.png",
+    ]
+  },
+  {
+    id: 40,
+    name: "McDodo OT-8730 USB C to USB 3.0, Deep Grey\n",
+    category: "Кабелі і перехідники",
+    price: 189  ,
+    description: `З компактним і простим адаптером McDodo (OT-8730) сумісність різних девайсів і різних роз'ємів більше вас не хвилюватиме. Він дозволяє підключати кабелі з USB 3.0 портом до пристроїв з інтерфейсом USB Type-C та швидко передавати великі обсяги даних. Також виконує роль адаптера OTG для мобільних пристроїв. Тому цей аксесуар стане в нагоді будь-якому власнику сучасних смартфонів та інших гаджетів.`,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/Screenshot_1_228.500x500.jpg.pagespeed.ce.9Y5zRm2N7D.jpg",
+    ]
+  },
+  {
+    id: 41,
+    name: "Doberman Premium Anti Peel Screen Protector 5D for iPhone 13 Pro Max\n",
+    category: "Захисні плівки і стікло",
+    price: 749   ,
+    description: `Прозорість - близька до 100%, забезпечує кристально чисте зображення і не має жодного впливу на зображення, що передається. Забезпечує бездоганну чутливість сенсорного екрана. Супер захист екрану, твердий поверхневий шар може запобігати появі тріщин, відколів, попадання вологи та інші пошкодження, при цьому зберігаючи ваш екран абсолютно новим.`,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/6041588986.500x500.jpg.pagespeed.ce.jQ_nDc-Uqi.jpg",
+    ]
+  },
+  {
+    id: 42,
+    name: "Armor Glass for iPad Mini 6\n",
+    category: "Захисні плівки і стікло",
+    price: 550 ,
+    description: `Надміцне, ультратонке та абсолютно прозоре захисне скло забезпечить збереження екрану вашого планшета. Протектор із загартованого скла принципово відрізняється від традиційних захисних плівок і перевершує їх за цілим рядом ключових характеристик:
+
+Захисний екран виготовлений з надміцного загартованого скла, надтонкий, не впливає на чутливість сенсора.`,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/Screenshot_4_135.500x500.jpg.pagespeed.ce.s2yOwXfBb4.jpg",
+    ]
+  },
+  {
+    id: 43,
+    name: "iLera DeLuxe Incognito FullCover Glass for iPhone 13/13 Pro\n",
+    category: "Захисні плівки і стікло",
+    price: 1150 ,
+    description: ``,
+    popular: true,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/photo_2021-10-21_19-25-36.500x500.jpg.pagespeed.ce.lhMIY1z8HM.jpg",
+    ]
+  },
+  {
+    id: 44,
+    name: "ZK Protection Glass for iPhone 13 Pro Max Full Silk Screen 0.26mm + Back Film, Black\n",
+    category: "Захисні плівки і стікло",
+    price: 800 ,
+    description: ``,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/photo_2021-10-12_15-45-21_1.500x500.jpg.pagespeed.ce.nlbyvTo9xx.jpg",
+    ]
+  },
 ];
 
 // List of item categories.
@@ -515,7 +707,23 @@ const categories = [
   {
     name: "Зовнішні акумулятори (POWER BANK)",
     icon: "power"
-  }
+  },
+  {
+    name: "Чехли для IPAD",
+    icon: "devices_other"
+  },
+  {
+    name: "Зараядні пристрої",
+    icon: "electrical_services"
+  },
+  {
+    name: "Кабелі і перехідники",
+    icon: "settings_input_hdmi"
+  },
+  {
+    name: "Захисні плівки і стікло",
+    icon: "crop_portrait"
+  },
 ];
 
 // Data for rendering menu.
