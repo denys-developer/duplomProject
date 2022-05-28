@@ -668,6 +668,314 @@ const sampleProducts = [
       "https://www.ipeople.in.ua/files/products/photo_2021-10-12_15-45-21_1.500x500.jpg.pagespeed.ce.nlbyvTo9xx.jpg",
     ]
   },
+  {
+    id: 45,
+    name: "Bombata Evolution Bag for MacBook 13/14, Black (E00829 4)\n",
+    category: "Аксессуары для MAC",
+    price: 2109 ,
+    description: `Сумка серії Bombata Evolution це стильна сумка з преміальної італійської PU шкіри для ноутбуків з діагоналлю екрану до 14”. Сумка має досить великий об'єм та безліч відділень для зберігання ноутбука, планшета, телефону, документів та аксесуарів. Модель має три великі внутрішні відділення і внутрішню кишеню, що закривається на замок-блискавку.`,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/Bombata-Evolution-Black-1-1000x1000.500x500.jpeg",
+    ]
+  },
+  {
+    id: 46,
+    name: "Satechi Type-C to 4K HDMI Cable Space Gray (ST-CHDMIM)\n",
+    category: "Аксессуары для MAC",
+    price: 1649  ,
+    description: `Кабель Satechi Type-C до 4K HDMI Cable був розроблений з урахуванням прямого підключення до монітора або проектора без додаткових перехідників. Переносьте зображення вашого пристрою з високою роздільною здатністю до 4K 60 Гц. Якість збирання забезпечує надійне з'єднання.`,
+    popular: true,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%20%D0%BE%2011.36.03.500x500.png",
+    ]
+  },
+  {
+    id: 47,
+    name: "Beats Solo Pro Wireless Headphones Red\n",
+    category: "Акустика",
+    price: 8760  ,
+    description: `Приймайте дзвінки, перемикайте композиції та регулюйте гучність прямо з навушників. Акселерометр з функцією розпізнавання мови та два спрямованих мікрофони розпізнають ваш голос і відфільтровують зовнішні шуми, забезпечуючи неперевершену якість звуку під час телефонних розмов. Технологія Bluetooth Class 1 забезпечує збільшену зону сигналу та надійність підключення.`,
+    popular: true,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/1022931_zoom.800x600w.jpeg",
+    ]
+  },
+  {
+    id: 48,
+    name: "Beats Studio 3 Wireless Over-Ear Headphones, Forest Green\n",
+    category: "Акустика",
+    price: 5200   ,
+    description: `Чудовий звук
+
+Бездротові навушники Beats Studio3 забезпечують чудову якість прослуховування завдяки технології Pure Active Noise Canceling (Pure ANC). Pure ANC від Beats активно блокує зовнішні шуми та використовує калібрування звуку в реальному часі для збереження чіткості, діапазону та емоцій. Вони постійно визначають зовнішні звуки для блокування, автоматично реагуючи на індивідуальне підганяння в режимі реального часу, оптимізуючи виведення звуку, щоб зберегти чудову якість прослуховування, як задумали виконавці.`,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/511jROXAeyL._AC_SL1000_.500x500.jpg.pagespeed.ce.Xu6T2fGBlv.jpg",
+    ]
+  },
+  {
+    id: 49,
+    name: "Beats Studio 3 Wireless Over-Ear Headphones, Forest Green\n",
+    category: "Акустика",
+    price: 3650 ,
+    description: `Відкрийте для себе Samsung Galaxy Buds Live з активним шумом придушення і надтривалим часом автономної роботи до 29 годин. На додаток до кришталево чистого звуку та тривалого часу автономної роботи, за допомогою Samsung Galaxy Buds Live також можна здійснювати дзвінки. Мікрофон фокусується на вашому голосі, тому вас завжди чути де б ви не знаходилися. При використанні швидкого заряджання Samsung Galaxy Buds Live можна зарядити за 3 хвилини.`,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%20%D0%BE%2014.48.30.500x500.png",
+    ]
+  },
+  {
+    id: 50,
+    name: "Аккумулятор (Battery) iPhone 5S (Original)\n",
+    category: "Запчастини",
+    price: 292 ,
+    description: `Якщо Ваша батарея стала частіше розряджатися, Вам стало не вистачати часу роботи Вашого iPhone 5S або телефон взагалі перестав тримати заряд, тоді Вам необхідна заміна акумулятора.
+
+В інтернет магазині iPeople Ви можете придбати якісну комплектуючу деталь та замінити її самостійно, за умови, що Ви маєте необхідний досвід.
+
+Також Ви можете скористатися послугами наших сервісних центрів і наші фахівці проведуть надійну заміну або ремонт у найкоротші терміни.`,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/18f6e2cee13662331004058f9e638951.800x600.JPG",
+    ]
+  },
+  {
+    id: 51,
+    name: "LCD for iPhone 7 (Слойка)",
+    category: "Запчастини",
+    price: 1643  ,
+    description: `Дисплей LCD+Touchscreen для iPhone 7 – це хороший контрастний дисплей, діагональ якого становить 4.7 дюйма. У комплекті постачання – міцне сенсорне скло.`,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/iphone-7-lcd-touch-screen-assembly-black-factory-ultra-premium-24.500x500.gif.pagespeed.ce.ZT-5we6OR_.gif",
+    ]
+  },
+  {
+    id: 52,
+    name: "Корпус (Housing) iPhone SE Gold\n",
+    category: "Запчастини",
+    price: 548  ,
+    description: `Корпус iPhone SE використовується для прикраси смартфона та для його захисту.
+
+При тривалій роботі зі смартфоном трапляється, що корпус iPhone SE може зашкодити. Так, через удари або падіння на ньому з'являються подряпини і сколи, тріщини і потертості. Корпус у такому стані зовсім не виглядає ефектно, та й не може добре захистити айфон.
+
+Ми допоможемо повернути Вашому смартфону колишній лоск: для цього потрібна заміна корпусу iPhone SE.
+
+Представлений корпус не люфтит, має чудову збірку, відрізняється стійким покриттям.`,
+    popular: true,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/zadnyaya_kryshka_korpus_iphone_6_zolotaya.500x500.jpg.pagespeed.ce.yB2lETJnqT.jpg",
+    ]
+  },
+  {
+    id: 53,
+    name: "Momax iPower GO Mini 8400 mAh",
+    category: "Зовнішні акумулятори (POWER BANK)",
+    price: 1241,
+    description: `Momax iPower GO Mini 8400 mAh - це чудовий помічник для любителів подорожувати. Завдяки цьому аксесуару Ви більше не залежатимете від електричної розетки. Солідної ємності в 8400мАч достатньо для кількох повноцінних зарядок мобільного телефону або смартфона. Сили струму в 2.4А достатньо навіть для того, щоб запитати планшетний комп'ютер. Індикація рівня заряду iPower Go mini реалізована у вигляді декількох точок, що світяться в корпусі, які можна побачити, якщо струсити пристрій.`,
+    popular: false,
+    imageUrls: [
+        "https://www.ipeople.in.ua/files/products/light-blue2.800x600.800x600w.jpg"
+    ]
+  },
+  {
+    id: 54,
+    name: "Momax iPower GO Mini 8400 mAh",
+    category: "Зовнішні акумулятори (POWER BANK)",
+    price: 2399,
+    description: `Moshi IonGo 5K Portable Battery – ця стильна портативна батарея оснащена вбудованими кабелями Lightning та USB-C, тому вам більше не доведеться турбуватися про те, щоб брати із собою додаткові кабелі. Місткість 5000 мАг дозволяє заряджати ваш смартфон протягом усього дня, а магнітна кришка з веганів шкіри акуратно ховає кабелі, коли вони не використовуються.`,
+    popular: true,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/2592053865.500x500.jpg.pagespeed.ce.-ZU0tACU0O.jpg"
+    ]
+  },
+  {
+    id: 55,
+    name: "Apple MagSafe Battery Pack (MJWY3)",
+    category: "Зовнішні акумулятори (POWER BANK)",
+    price: 3103,
+    description: `Компанія Apple представила зовнішній акумулятор MagSafe, який кріпиться до iPhone одним дотиком. Аксесуар MagSafe Battery Pack розроблений для iPhone 12, iPhone 12 mini, iPhone 12 Pro та iPhone 12 Pro Max. Ідеально вирівняні магніти утримують його на iPhone, забезпечуючи безпечну та надійну бездротову зарядку.
+
+ 
+
+Вбудовані магніти фіксують акумулятор на задній панелі смартфона та виконується бездротова зарядка. Apple рекомендує використовувати для заряджання MagSafe Battery Pack адаптер живлення USB-C потужністю 20 Вт або вище та кабель USB-C/Lightning, які продаються окремо.`,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/Screenshot_5_37.500x500.jpg.pagespeed.ce.JqaPN2tvnL.jpg"
+    ]
+  },
+  {
+    id: 56,
+    name: "Armorstandart Smart Case для iPad Mini 6, Red (ARM60279)\n",
+    category: "Чехли для IPAD",
+    price: 599  ,
+    description: `ArmorStandart Smart Case забезпечує надійний захист вашого планшета від будь-яких видів пошкоджень. Основною перевагою чохлів цього типу є захист дисплея пристрою. Саме на цій частині планшета подряпини та сколи створюють негативне враження від використання.
+
+Функція Wake/Sleep, реалізована за допомогою магнітів, дозволяє значно продовжити використання планшета на одному заряді батареї за рахунок зниження використання екрану.
+
+М'яка мікрофібра, з якої складається внутрішня оболонка чохла ArmorStandart, забезпечує додатковий захист від попадання пилу та сміття, а відповідно і від утворення нових дрібних подряпин на пристрої.`,
+    popular: true,
+    imageUrls: [
+        "https://www.ipeople.in.ua/files/products/Screenshot_2_195.500x500.jpg.pagespeed.ce.o6DmCWU5yX.jpg"
+    ]
+  },
+  {
+    id: 57,
+    name: "Armorstandart Smart Case для iPad Mini 6, Red (ARM60279)\n",
+    category: "Чехли для IPAD",
+    price: 1129 ,
+    description: ``,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/Screenshot_7_42.500x500.jpg.pagespeed.ce.BMYzyZm4FA.jpg"
+    ]
+  },
+  {
+    id: 58,
+    name: "LAUT Prestige Folio for iPad Pro 12.9 (2021/2020/2018)with Pencil Slot, Brown",
+    category: "Чехли для IPAD",
+    price: 1409  ,
+    description: `Протиударний чохол-книжка LAUT PRESTIGE FOLIO подарує вашому iPad Air (4th generation) / iPad Pro 11” (2018 /
+
+2020/2021) найнадійніший захист при падіннях або ударах. LAUT PRESTIGE FOLIO - це один з найнадійніших захисних чохлів.`,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/LAUT-PRESTIGE-FOLIO-iPad-Pro-12-9-Tan-Brown-,P28L_IPP21L_PR_BR,P29-1-1000x1000.500x500.jpg.pagespeed.ce.UZogIYgpsW.jpg"
+    ]
+  },
+  {
+    id: 59,
+    name: "Satechi 100W USB-C PD Compact Gan Charger, Space Gray (ST-TC100GM-EU)\n",
+    category: "Зараядні пристрої",
+    price: 2999  ,
+    description: `Перейдіть на зарядку наступного покоління за допомогою компактного зарядного пристрою GaN Satechi USB-C PD потужністю 100 Вт із потужною технологією нітриду галію (GaN) для помітно більш швидкої та ефективної зарядки. Оснащений двома портами USB-C PD та портом USB-A, зарядний пристрій об'єднує три адаптери та інтелектуально регулює вихідну потужність залежно від підключених пристроїв – до 100 Вт.`,
+    popular: false,
+    imageUrls: [
+        "https://www.ipeople.in.ua/files/products/%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%20%D0%BE%2012.24.04.500x500.png"
+    ]
+  },
+  {
+    id: 60,
+    name: "Zens Single Aluminium Wireless Charger with 18W USB-C PD Wall Charger, Black (ZESC14B/00)\n",
+    category: "Зараядні пристрої",
+    price: 1499  ,
+    description: `Компактний бездротовий зарядний пристрій є чудовим варіантом для того, щоб не залежати від кабелів. Заряджайте кілька гаджетів одночасно, не використовуючи багато шнурів для кожного пристрою. Невеликий розмір Zens Single Aluminium Wireless Charger чудово впишеться в будь-який інтер'єр, при цьому виконає свою головну функцію.`,
+    popular: true,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/%20%D0%B5%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%20%20%D0%BE%2017.23.42.500x500.png"
+    ]
+  },
+  {
+    id: 61,
+    name: "Pitaka MagEZ Juice 2, Twill Black/Blue (MJ2005)\n",
+    category: "Зараядні пристрої",
+    price: 2999  ,
+    description: `Акумулятор MagEZ Juice 2 швидко заряджає телефон. Більше не доведеться носити з собою великий та незручний блок живлення та кабель від нього. Пристрій працює дуже просто. Перебуваючи вдома або на роботі, закріпіть смартфон до магнітного зарядника. Ваш мобільник і портативний акумулятор будуть заряджатися, поки ви зайняті важливими справами. Зарядка смартфона в дорозі теж не проблема. Не треба йти додому: просто витягніть магнітний блок живлення. Для зручності використання акумулятора є чохол MagEZ.`,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/13278-876juice2-blue-1_1024x1024.1800x1800.500x500.png.pagespeed.ce.lxjGBjDNeG.png"
+    ]
+  },
+  {
+    id: 62,
+    name: "Pitaka MagEZ Juice 2, Twill Black/Blue (MJ2005)\n",
+    category: "Камери",
+    price: 14600  ,
+    description: `Неперевершена швидкість і неперевершена простота тепер у найпотужнішій GoPro. Завдяки новому революційному процесору GP2 камера HERO10 Black знімає відео 5,3K з подвоєною частотою кадрів, фотографії з роздільною здатністю 23 МП, покращену продуктивність при слабкому освітленні та революційну стабілізацію відео HyperSmooth 4.0 у всіх режимах. Крім того, HERO10 підключається до хмари, тому в той момент, коли ви її заряджаєте, знятий матеріал автоматично завантажується в хмару.`,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/20_4000.500x500.jpeg.pagespeed.ce.Vu0Xkt2IK_.jpg"
+    ]
+  },
+  {
+    id: 63,
+    name: "GoPro HERO9 Black (CHDHX-901-RW)",
+    category: "Камери",
+    price: 12410   ,
+    description: `Зустрічайте нову екшн-камеру GoPro HERO 9 Black, яка стала кращою у всьому, щоб ви змогли легко запам'ятати свої найзапашніші моменти та поділитися ними з рештою. Вона оснащена покращеною матрицею 23,6 Мп для зйомки чудових відео в 5K та чітких фото. А також новим переднім екраном! Крім того, дев'яте покоління GoPro HERO пропонує новий набір інтелектуальних функцій, підтримує прямі трансляції та режим веб-камери. Просто робіть те, що вам подобається, а HERO 9 подбає, щоб все було знято у кращому вигляді.`,
+    popular: true,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/hero9__3_.500x500.jpg.pagespeed.ce.uSOeXrdsLu.jpg"
+    ]
+  },
+  {
+    id: 64,
+    name: "GoPro Fusion (CHDHZ-103)",
+    category: "Камери",
+    price: 13104 ,
+    description: `Нова екшн-камера GoPro – це не просто розвиток лінійки екшн-камер, це новий гаджет з колосальними можливостями!`,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/1524677509000_IMG_975900.500x500.jpg.pagespeed.ce.kJL5b59WnA.jpg"
+    ]
+  },
+  {
+    id: 65,
+    name: "WIWU iPaper Paper-Like Screen Protector for iPad Pro 12.9",
+    category: "Захисні плівки і стікло",
+    price: 548 ,
+    description:  ``,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/plenka-wiwu-ipaper-paper-like-for-ipad-12.9-2018-2020.html-92499316546792.500x500.jpg.pagespeed.ce.vN-ICylrkh.jpg"
+    ]
+  },
+  {
+    id: 66,
+    name: "Doberman Premium Screen Protector 5D for iPhone 12 Pro Max",
+    category: "Захисні плівки і стікло",
+    price: 649 ,
+    description:  ``,
+    popular: true,
+    imageUrls: [
+        "https://www.ipeople.in.ua/files/products/woodcessories-curved-tempered-glass-3d-iphone-1212-pro-kupit_1.1000x.500x500.jpg.pagespeed.ce.tcDeISTi-y.jpg"
+    ]
+  },
+  {
+    id: 66,
+    name: "Doberman Premium Anti Peep Screen Protector 5D for iPhone 11 Pro Max/Xs Max",
+    category: "Захисні плівки і стікло",
+    price: 599 ,
+    description:  ``,
+    popular: false,
+    imageUrls: [
+        "https://www.ipeople.in.ua/files/products/2020-11-23,P2016.02.09.500x500.jpg.pagespeed.ce.rUJvW4ZmrT.jpg"
+    ]
+  },
+  {
+    id: 67,
+    name: "BASEUS OTG Type-C to USB black",
+    category: "Кабелі і перехідники",
+    price: 160 ,
+    description:  `Даний адаптер стане чудовим рішенням для заряджання сучасних смартфонів та планшетів від пристроїв, у яких відсутній роз'єм MicroUSB. Baseus MicroUSB/USB-C Adapter має мініатюрні розміри, що забезпечує не тільки зручність зберігання, але й гарантує підвищену міцність завдяки відсутності дротів. Корпус адаптера виконаний з алюмінію, а розміри хоч і невеликі, але не викликають труднощів у підключенні до комп'ютера або ноутбука. Baseus MicroUSB/USB-C Adapter дає можливість підключати пристрої з роз'єм MicroUSB до ноутбука, ПК або зарядного пристрою з інтерфейсом USB-C.`,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/Screenshot_1_159.500x500.jpg.pagespeed.ce.sLzcIZeeQ4.jpg"
+    ]
+  },
+  {
+    id: 68,
+    name: "Apple USB C to MagSafe 3 Cable 2m (MLYV3)\n",
+    category: "Кабелі і перехідники",
+    price: 2373  ,
+    description: `Цей кабель довжиною 2 метри з магнітним роз'ємом MagSafe 3 легко підключається до живлення MacBook Pro. У поєднанні із сумісним адаптером USB-C він дозволяє зручно заряджати MacBook Pro від настінної розетки та підтримує функцію швидкого заряджання. Кабель примагнічується досить міцно і не від'єднується, коли його випадково зачіпають. Але якщо хтось зачепиться за нього, кабель легко вискочить з роз'єму і не потягне ваш MacBook Pro за собою. Під час заряджання світлодіодний індикатор горить оранжевим світлом, а після його завершення стає зеленим. Він виготовлений з плетеного текстилю, тому відрізняється довгим терміном служби.`,
+    popular: true,
+    imageUrls: [
+        "https://www.ipeople.in.ua/files/products/MLYV3_AV1-1000x1000.500x500.jpeg.pagespeed.ce.KjNwYvW-Oz.jpg"
+    ]
+  },
+  {
+    id: 69,
+    name: "Satechi USB-C Clamp Hub for 24\" iMac, Silver (ST-UCICHS)\n",
+    category: "Кабелі і перехідники",
+    price: 2399  ,
+    description: `Спеціально розроблений для моделей iMac 2021 (24 дюйми) для розширення USB-портів для швидкої передачі даних та легкого доступу до периферійних пристроїв - і все це з гладкою алюмінієвою обробкою, що доповнює ваш iMac.`,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/usb-c-clamp-hub-for-24-inch-imac-hubs-satechi-981051_1024x.500x500.jpg.pagespeed.ce.dVQVrS1ggD.jpg"
+    ]
+  },
 ];
 
 // List of item categories.
@@ -694,7 +1002,7 @@ const categories = [
   },
   {
     name: "Аксессуары для MAC",
-    icon: "desktop_mac"
+    icon: "apple"
   },
   {
     name: "Акустика",
@@ -723,6 +1031,10 @@ const categories = [
   {
     name: "Захисні плівки і стікло",
     icon: "crop_portrait"
+  },
+  {
+    name: "Камери",
+    icon: "photo_camera"
   },
 ];
 
