@@ -976,6 +976,109 @@ const sampleProducts = [
       "https://www.ipeople.in.ua/files/products/usb-c-clamp-hub-for-24-inch-imac-hubs-satechi-981051_1024x.500x500.jpg.pagespeed.ce.dVQVrS1ggD.jpg"
     ]
   },
+  {
+    id: 70,
+    name: "Urbanears Plattan 2, Black",
+    category: "Акустика",
+    price: 1999  ,
+    description: `Plattan 2 Bluetooth – оновлена ​​версія популярної моделі з покращеним дизайном та конструкцією. Остання гарантує неперевершену ергономіку та найвищий рівень комфорту 24 години на добу завдяки особливому гнучкому оголов'ю, форму якого можна змінювати у трьох площинах і, таким чином, забезпечувати ідеальну посадку навушників.`,
+    popular: false,
+    imageUrls: [
+        "https://www.ipeople.in.ua/files/products/1_111.500x500.jpg.pagespeed.ce.BiFFztGp1G.jpg"
+    ]
+  },
+  {
+    id: 71,
+    name: "JBL Flip 6 Black, (JBLFLIP6BLKEU)",
+    category: "Акустика",
+    price: 4499  ,
+    description: `Серія колонок JBL Flip оновилася до 6 моделі та отримала сповна інновацій, як зовні, так і всередині. Новий дизайн логотипу, преміум матеріали, нові кольори, а також нова аудіо начинка. Звук JBL Pro Sound і корпус JBL Flip 6 стали ще краще.
+
+JBL Flip 6 - ідеальний компаньйон для потужного звуку на ходу - відрізняється зручністю підключення та довговічністю. За допомогою функції PartyBoost у Вас із друзями є можливість об'єднати кілька колонок, так ви отримаєте ще більше звуку. Відчуйте себе спокійно і в приміщенні та на вулиці завдяки класу захисту від води та пилу IP67. Завдяки 12 годинам роботи в режимі відтворення JBL Flip 6 пропрацює не менше за Вас.`,
+    popular: true,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/238375515.500x500.jpg.pagespeed.ce.TMAnBDCQvt.jpg"
+    ]
+  },
+  {
+    id: 72,
+    name: "Pitaka Fusion Weaving MagEZ Case 2 for iPhone 13 Pro, Rhapsodу",
+    category: "Чохли для IPHONE",
+    price: 4499  ,
+    description: `Чохол Pitaka MagEZ Case 2 для iPhone 13 Pro – чудовий вибір для вашого iPhone. Тонкий та надійний аксесуар, який підійде як для чоловіків, так і для жінок. Структура чохла не ковзає в руці, а це означає, що телефон застрахований від випадкових падінь.`,
+    popular: true,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/Screenshot_4_99.500x500.jpg.pagespeed.ce.Q9EeyMsEHW.jpg"
+    ]
+  },
+  {
+    id: 73,
+    name: "Native Union Clic Pop Magnetic Case for iPhone 13 Pro Max, Peach",
+    category: "Чохли для IPHONE",
+    price: 1199  ,
+    description: `Оброблений м'якою натуральною шкірою чохол Native Union Clic Pop Magnetic Case забезпечить вашому iPhone 13 Pro не тільки надійний захист від різних пошкоджень, але й надасть йому неповторного та елегантного образу.`,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/Screenshot_5_61.500x500.jpg.pagespeed.ce.luixmCsjiG.jpg"
+    ]
+  },
+  {
+    id: 74,
+    name: "Native Union Clic Pop Magnetic Case for iPhone 13 Pro Max, Peach",
+    category: "Чохли для IPHONE",
+    price: 1499  ,
+    description: `Класичний та вишуканий дизайн
+
+Наш флагманський чохол iGlaze має глянсове покриття преміум-класу, стійке до подряпин та вицвітання. Доступний у різних модних кольорах, iGlaze надає вашому телефону елегантного блиску та тонкого, вишуканого вигляду.`,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/242343005_4781144761953036_1141967091434688013_n.500x500.jpg.pagespeed.ce._FvjNflis6.jpg"
+    ]
+  },
+  {
+    id: 75,
+    name: "Spigen Ultra Hybrid Case for iPhone 13 Mini, Clear\n",
+    category: "Чохли для IPHONE",
+    price: 799  ,
+    description: `Ultra Hybrid – це оптимальний чохол для демонстрації елегантного дизайну iPhone 13, що забезпечує йому належний захист. Гібридна конструкція поєднує в собі бампер, що амортизує, з прозорою спинкою, що забезпечує тривалу чіткість зображення. Його простий макіяж підтримує тонку рамку, яка підтримує бездротову зарядку, а точні вирізи роблять доступними функції. Збережіть зовнішній вигляд iPhone 13 за допомогою надійного захисту від падіння, уклавши в нього чохол Ultra Hybrid.`,
+    popular: false,
+    imageUrls: [
+        "https://www.ipeople.in.ua/files/products/detail_ip13mini_uh_cc_01.800x600w.jpg"
+    ]
+  },
+  {
+    id: 76,
+    name: "Pitaka MagEZ Case 2 for iPhone 13 Pro, Herringbone Red/Orange",
+    category: "Чохли для IPHONE",
+    price: 2555  ,
+    description: `Чохол Pitaka MagEZ Case Herringbone для iPhone - це захисна накладка на корпус iPhone. Виконаний на 100% з арамідного волокна, що забезпечує такий захист для смартфона, як бронежилет для людини. Чохол не перешкоджає бездротовій зарядці, а також легко кріпиться на магнітний автомобільний утримувач. Дизайн чохла виконаний за технологією 3D Grip – це запатентований процес, який залишає текстурований візерунок на поверхні чохла.`,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/13pro-rot-1_720x720_2.520x520.500x500.png"
+    ]
+  },
+  {
+    id: 77,
+    name: "Moshi iGlaze Slim Hardshell Case for iPhone 13 Pro Max, Dahlia Pink (99MO132013)\n",
+    category: "Чохли для IPHONE",
+    price: 1499   ,
+    description: `Moshi поєднує в собі дизайн, функціональність та захист від падінь. Цей чохол, що амортизує, має рельєфну рамку для кращого захоплення в руці. Як і всі чохли для iPhone від Moshi, iGlaze на 100% нетоксичний і не містить бісфенолу-А. Цей чохол сумісний із нашою магнітною системою кріплення SnapTo.`,
+    popular: false,
+    imageUrls: [
+      "https://www.ipeople.in.ua/files/products/iGlaze,P2013,P20PRO,P20PINK,P202.500x500.jpg.pagespeed.ce.Tyi5HlFenL.jpg"
+    ]
+  },
+  {
+    id: 78,
+    name: "Native Union Clic Pop Magnetic Case for iPhone 13 Pro, Slate",
+    category: "Чохли для IPHONE",
+    price: 1199  ,
+    description: `Оброблений м'якою натуральною шкірою чохол Native Union Clic Pop Magnetic Case забезпечить вашому iPhone 13 Pro не тільки надійний захист від різних пошкоджень, але й надасть йому неповторного та елегантного образу.`,
+    popular: true,
+    imageUrls: [
+        "https://www.ipeople.in.ua/files/products/Screenshot_7_38.500x500.jpg.pagespeed.ce.LMqcAXrxjq.jpg"
+    ]
+  },
 ];
 
 // List of item categories.
@@ -1019,6 +1122,10 @@ const categories = [
   {
     name: "Чехли для IPAD",
     icon: "devices_other"
+  },
+  {
+    name: 'Чохли для IPHONE',
+    icon: 'devices_fold'
   },
   {
     name: "Зараядні пристрої",
