@@ -479,7 +479,7 @@ const sampleProducts = [
   {
     id: 29,
     name: "LAUT Shield Enduro for iPad Air 10.9” / iPad Pro 11” (2021/2020/2018)",
-    category: "Чехли для IPAD",
+    category: "Чохли для IPAD",
     price: 1509  ,
     description: `SHIELD ENDURO має удароміцну силіконову зовнішню оболонку, яка розсіює удари від вашого пристрою, та міцний полікарбонатний передній та задній внутрішній сердечник. Якщо є щось, що цей кейс вміє робити, то це виживати!`,
     popular: false,
@@ -492,7 +492,7 @@ const sampleProducts = [
   {
     id: 30,
     name: "Apple Smart Folio for iPad Pro 12.9 5th Gen, English Lavender",
-    category: "Чехли для IPAD",
+    category: "Чохли для IPAD",
     price: 780  ,
     description: `Apple Smart Folio - це співвідношення елегантного мінімалізму та посиленого захисту. Практичний дизайн чохла забезпечує надійний захист задньої панелі планшета та його дисплея. Виготовлений у формі фоліо, цей чохол захищає корпус iPad Pro 12.9" від затертостей, подряпин та різних зовнішніх впливів, що дозволить надовго зберегти його первісний вигляд.`,
     popular: true,
@@ -504,7 +504,7 @@ const sampleProducts = [
   {
     id: 31,
     name: "Wiwu Waltz Rotative Case for iPad 10.2, Dark Green\n",
-    category: "Чехли для IPAD",
+    category: "Чохли для IPAD",
     price: 1200  ,
     description: `WiWU Waltz Rotative iPad Case – зручний варіант для транспортування, захисту та використання Вашого iPad 10.2. Чохол WiWU Waltz з кількома кутами огляду забезпечує свободу, необхідну для читання, перегляду фільмів, набору тексту або здійснення відеодзвінків.`,
     popular: true,
@@ -516,7 +516,7 @@ const sampleProducts = [
   {
     id: 32,
     name: "Armorstandart Smart Case для iPad Mini 6, White (ARM60283)",
-    category: "Чехли для IPAD",
+    category: "Чохли для IPAD",
     price: 767  ,
     description: `ArmorStandart Smart Case забезпечує надійний захист вашого планшета від будь-яких видів пошкоджень. Основною перевагою чохлів цього типу є захист дисплея пристрою. Саме на цій частині планшета подряпини та сколи створюють негативне враження від використання.
 
@@ -808,7 +808,7 @@ const sampleProducts = [
   {
     id: 56,
     name: "Armorstandart Smart Case для iPad Mini 6, Red (ARM60279)\n",
-    category: "Чехли для IPAD",
+    category: "Чохли для IPAD",
     price: 599  ,
     description: `ArmorStandart Smart Case забезпечує надійний захист вашого планшета від будь-яких видів пошкоджень. Основною перевагою чохлів цього типу є захист дисплея пристрою. Саме на цій частині планшета подряпини та сколи створюють негативне враження від використання.
 
@@ -823,7 +823,7 @@ const sampleProducts = [
   {
     id: 57,
     name: "Armorstandart Smart Case для iPad Mini 6, Red (ARM60279)\n",
-    category: "Чехли для IPAD",
+    category: "Чохли для IPAD",
     price: 1129 ,
     description: ``,
     popular: false,
@@ -834,7 +834,7 @@ const sampleProducts = [
   {
     id: 58,
     name: "LAUT Prestige Folio for iPad Pro 12.9 (2021/2020/2018)with Pencil Slot, Brown",
-    category: "Чехли для IPAD",
+    category: "Чохли для IPAD",
     price: 1409  ,
     description: `Протиударний чохол-книжка LAUT PRESTIGE FOLIO подарує вашому iPad Air (4th generation) / iPad Pro 11” (2018 /
 
@@ -1120,7 +1120,7 @@ const categories = [
     icon: "power"
   },
   {
-    name: "Чехли для IPAD",
+    name: "Чохли для IPAD",
     icon: "devices_other"
   },
   {
